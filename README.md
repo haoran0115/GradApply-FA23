@@ -1,7 +1,7 @@
 # 2023 Fall Graduate Programs 申请心得
 
 ## 声明
-转载请声明出处，包括：GitHub用户名[haoran0115](https://github.com/haoran0115)，此仓库的[链接](./)。
+转载请声明出处，包括：GitHub用户名[haoran0115](https://github.com/haoran0115)，此仓库的[链接](https://github.com/haoran0115/GradApply-FA23)。
 
 本文持续更新中。
 
@@ -19,7 +19,7 @@
 - 个人陈述/目的陈述
 - 推荐信
 
-本文主要讨论介绍和目的陈述的写作。
+本文主要讨论简历和目的陈述的写作。
 
 ### 简历 CV/resume
 敬请期待。
@@ -50,51 +50,49 @@
 
 ## 附录：对生物及化学专业同学们的建议
 ### 关于修课
-生物和化学（尤其是生物）在我看来并不是纯粹的自然科学而是交叉学科，因为这两个学科涉及到的知识和方法极大程度依赖数学、物理和计算机。请考虑根据自己的研究背景考虑修习一些对应的学术课程。
+生物和化学（尤其是生物）在我看来并不是纯粹的自然科学而是交叉学科，因为这两个学科涉及到的知识和方法极大程度依赖数学、物理和计算机。请考虑根据自己的研究背景修习一些对应的学术课程。
 
 ### 关于科研
 敬请期待。
 
 ## 附录：我的修课列表
-列出了我本科四年修过的所有学术类课程，按照课程代码排序。
+以下是我本科四年修过的所有学术类课程，按照课程代码排序。
 | Course Code | Couse Title                                               |
 | ----------- | --------------------------------------------------------- |
-| BIM2005     | Computational Biology                                     |
-| BIM3001     | Bioinformatics                                            |
-| BIM3007     | Computational Genomics and Proteomics                     |
-| BIM3008     | Machine Learning in Computational Biology                 |
-| BIM3009     | Design and Analysis of Bioinformatics Algorithm           |
-| BIM3010     | Molecular Simulations & Modelling I                       |
-| BIM3013     | Organic Chemistry                                         |
-| BIM3018     | Biophysical Chemistry                                     |
-| BIM3019     | Computational Biology Laboratory                          |
-| BIO1001     | General Biology                                           |
-| BIO1002     | Cell and Molecular Biology                                |
-| BIO2004     | Biochemistry                                              |
-| BIO2032     | Biology Laboratory                                        |
-| BIO3001     | Genetics                                                  |
-| BIO3901     | Research Internship I                                     |
-| BIO3902 | Research Internship II |
-| BIO4202 | Nucleic Acids |
-| BIO4205     | Biophysics                                                |
-| CHM1001     | General Chemistry                                         |
-| CSC1001     | Introduction to Computer Science: Programming Methodology |
-| CSC1002     | Computational Laboratory                                  |
-| CSC3050 (CS61C) | Machine Structure |
-| CSC4005     | Parallel Programming                                      |
-| CSC4008 | Techniques for Data Mining |
-| MAT1001     | Calculus I                                                |
-| MAT1002     | Calculus II                                               |
-| MAT2006 (MATH104) |  Introduction to Analysis |
-| MAT2002     | Ordinary Differential Equations                           |
-| MAT2040     | Linear Algebra                                            |
-| MAT3040     | Advanced Linear Algebra                                   |
-| MAT4001 (MATH128A) | Numerical Analysis |
-| MAT4220     | Partial Differential Equation                             |
-| PED1001     | Physical Education                                        |
-| PED1002     | Fitness and Health                                        |
-| PHY1001     | Mechanics                                                 |
-| PHY3110 | Classical Mechanics I|
-| PHY5410     | Advanced Quantum Mechanics                                |
-| STA2001     | Probability and Statistics I                              |
+| BIM2005 | Computational Biology                                     |
+| BIM3001 | Bioinformatics                                            |
+| BIM3007 | Computational Genomics and Proteomics                     |
+| BIM3008 | Machine Learning in Computational Biology                 |
+| BIM3009 | Design and Analysis of Bioinformatics Algorithm           |
+| BIM3010 | Molecular Simulations & Modelling I                       |
+| BIM3013 | Organic Chemistry                                         |
+| BIM3018 | Biophysical Chemistry                                     |
+| BIM3019 | Computational Biology Laboratory                          |
+| BIO1001 | General Biology                                           |
+| BIO1002 | Cell and Molecular Biology                                |
+| BIO2004 | Biochemistry                                              |
+| BIO2032 | Biology Laboratory                                        |
+| BIO3001 | Genetics                                                  |
+| BIO3901 | Research Internship I                                     |
+| BIO3902 | Research Internship II                                    |
+| BIO4202 | Nucleic Acids                                             |
+| BIO4205 | Biophysics                                                |
+| CHM1001 | General Chemistry                                         |
+| CSC1001 | Introduction to Computer Science: Programming Methodology |
+| CSC1002 | Computational Laboratory                                  |
+| CSC3050 (CS61C) | Machine Structure                                 |
+| CSC4005 | Parallel Programming                                      |
+| CSC4008 | Techniques for Data Mining                                |
+| MAT1001 | Calculus I                                                |
+| MAT1002 | Calculus II                                               |
+| MAT2006 (MATH104) |  Analysis I                                     |
+| MAT2002 | Ordinary Differential Equations                           |
+| MAT2040 | Linear Algebra                                            |
+| MAT3040 | Advanced Linear Algebra                                   |
+| MAT4001 (MATH128A) | Numerical Analysis                             |
+| MAT4220 | Partial Differential Equations                            |
+| PHY1001 | Mechanics                                                 |
+| PHY3110 | Classical Mechanics I                                     |
+| PHY5410 | Advanced Quantum Mechanics                                |
+| STA2001 | Probability and Statistics I                              |
 
